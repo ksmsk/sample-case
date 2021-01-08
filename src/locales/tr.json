@@ -1,0 +1,58 @@
+{
+  "pages": {
+    "account": "Hesabım",
+    "home": "Sample Case",
+    "login": "Giriş",
+    "contact": "İletişim",
+    "about": "Hakkımızda",
+    "products": "Ürünler"
+  },
+  "buttons": {
+    "home": "Ana Sayfa",
+    "login": "Giriş Yap",
+    "account": "Hesabım",
+    "logout": "Çıkış Yap",
+    "send": "Gönder"
+  },
+  "content": {
+    "home": "Türkce içerik. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam rem et veniam cupiditate eveniet blanditiis aliquid omnis quam totam incidunt beatae, velit accusantium maxime quis fugit? Quam non eum perspiciatis, recusandae debitis dolorum exercitationem ab minima laudantium blanditiis optio quis at doloremque repudiandae architecto officiis, consequatur culpa accusamus adipisci. Nihil."
+  },
+  "titles": {
+    "home": "Denemeye Hoşgeldiniz",
+    "contact": "Bize Ulaşın",
+    "login": "Hesabınıza giriş yapın"
+  },
+  "countries": {
+    "TR": "Türkiye",
+    "US": "Amerika Birleşik Devletleri",
+    "GB": "Birleşik Krallık",
+    "DE": "Almanya",
+    "SE": "İsveç",
+    "KE": "Kenya",
+    "BR": "Brezilya",
+    "ZW": "Zimbabve"
+  },
+  "form": {
+    "label": {
+      "name": "İsim",
+      "email": "E-posta",
+      "phone": "Telefon",
+      "country": "Ülke",
+      "message": "Mesaj"
+    },
+    "placeholder": {
+      "email": "E-posta adresi",
+      "password": "Şifre"
+    },
+    "remember": "Beni hatırla",
+    "forget": "Şifremi unuttum",
+    "select": "Seçin",
+    "required": "Bu alan gerekli",
+    "phone": "Geçerli bir telefon numarası girin"
+  },
+  "server": {
+    "invalidCredentials": "Yanlış kullanıcı adı ya da şifre",
+    "contactSuccess": "Mesajınız bize ulaştı"
+  },
+  "rights": "Tüm hakları saklıdır"
+}

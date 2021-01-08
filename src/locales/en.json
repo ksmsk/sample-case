@@ -1,0 +1,58 @@
+{
+  "pages": {
+    "account": "Account",
+    "home": "Sample Case",
+    "login": "Login",
+    "contact": "Contact",
+    "about": "About",
+    "products": "Products"
+  },
+  "buttons": {
+    "home": "Home",
+    "login": "Login",
+    "account": "Account",
+    "logout": "Logout",
+    "send": "Send"
+  },
+  "content": {
+    "home": "English content. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam rem et veniam cupiditate eveniet blanditiis aliquid omnis quam totam incidunt beatae, velit accusantium maxime quis fugit? Quam non eum perspiciatis, recusandae debitis dolorum exercitationem ab minima laudantium blanditiis optio quis at doloremque repudiandae architecto officiis, consequatur culpa accusamus adipisci. Nihil."
+  },
+  "titles": {
+    "home": "Welcome to Sample",
+    "contact": "Contact Us",
+    "login": "Login to your account"
+  },
+  "countries": {
+    "TR": "Turkey",
+    "US": "United States of America",
+    "GB": "United Kingdom",
+    "DE": "Germany",
+    "SE": "Sweden",
+    "KE": "Kenya",
+    "BR": "Brazil",
+    "ZW": "Zimbabwe"
+  },
+  "form": {
+    "label": {
+      "name": "Name",
+      "email": "E-mail",
+      "phone": "Phone",
+      "country": "Country",
+      "message": "Message"
+    },
+    "placeholder": {
+      "email": "E-mail address",
+      "password": "Password"
+    },
+    "remember": "Remember me",
+    "forget": "Forgot your password",
+    "select": "Select one...",
+    "required": "This field is required",
+    "phone": "Enter a valid phone number"
+  },
+  "server": {
+    "invalidCredentials": "Invalid credentials",
+    "contactSuccess": "We have received your message"
+  },
+  "rights": "All Rights Reserved"
+}
